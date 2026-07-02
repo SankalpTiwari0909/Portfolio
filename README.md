@@ -10,7 +10,7 @@ Welcome to my personal portfolio repository! This project showcases my skills, e
 
 This portfolio is built using modern web development technologies to ensure speed, responsiveness, and a great user experience:
 
-*   **Frontend:** Vite + React / TypeScript (or your preferred framework)
+*   **Frontend:** Vite + React / TypeScript
 *   **Styling:** Tailwind CSS / CSS Modules
 *   **Deployment:** Google Cloud Run (Asia-Southeast1)
 
