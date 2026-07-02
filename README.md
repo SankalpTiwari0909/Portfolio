@@ -1,20 +1,24 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🚀 My Personal Portfolio
 
-# Run and deploy your AI Studio app
+Welcome to my personal portfolio repository! This project showcases my skills, experiences, projects, and everything about my professional journey as a developer.
 
-This contains everything you need to run your app locally.
+🌐 **Live Demo:** [Sankalp Tiwari Portfolio](https://sankalp-tiwari-portfolio-118634222605.asia-southeast1.run.app/)
 
-View your app in AI Studio: https://ai.studio/apps/699f7b2b-c176-44d6-aecd-30031bf298e2
+---
 
-## Run Locally
+## 🛠️ Tech Stack Used
 
-**Prerequisites:**  Node.js
+This portfolio is built using modern web development technologies to ensure speed, responsiveness, and a great user experience:
 
+*   **Frontend:** Vite + React / TypeScript (or your preferred framework)
+*   **Styling:** Tailwind CSS / CSS Modules
+*   **Deployment:** Google Cloud Run (Asia-Southeast1)
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## ✨ Features
+
+*   **Responsive Design:** Fully optimized for Mobile, Tablet, and Desktop screens.
+*   **Projects Showcase:** An interactive section showing my best work with live links and source code.
+*   **Skill Highlight:** Visually appealing display of my technical expertise.
+*   **Contact Form:** A direct way for recruiters and clients to get in touch with me.
