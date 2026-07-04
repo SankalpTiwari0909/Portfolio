@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio repository! This project showcases my skills, experiences, projects, and everything about my professional journey as a developer.
 
-🌐 **Live Demo:** [Sankalp Tiwari Portfolio](https://sankalp-tiwari-portfolio-118634222605.asia-southeast1.run.app/)
+🌐 **Live Demo:** [Sankalp Tiwari Portfolio](https://sankalp-tiwari-portfolio.vercel.app/)
 
 ---
 
