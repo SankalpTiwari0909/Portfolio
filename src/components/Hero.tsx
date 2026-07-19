@@ -6,9 +6,7 @@ import { personalInfo } from '../data';
 export default function Hero() {
   const [typedRole, setTypedRole] = useState('');
   const roles = [
-    'Business Analyst',
-    'Product Analyst',
-    'Data Analyst'
+    'Product Analyst'
   ];
   const [currentRoleIndex, setCurrentRoleIndex] = useState(0);
   const [isDeleting, setIsDeleting] = useState(false);
@@ -132,13 +130,15 @@ export default function Hero() {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6, delay: 0.2 }}
-            className="h-16 flex items-center mb-6"
+            className="flex flex-col mb-8"
           >
-            <p className="text-2xl sm:text-3xl font-display font-semibold text-slate-800 dark:text-slate-200 tracking-tight">
-              An aspiring{' '}
+            <p className="text-2xl sm:text-3xl font-display font-semibold text-slate-800 dark:text-slate-200 tracking-tight min-h-[40px] flex items-center">
               <span className="text-blue-600 dark:text-blue-400 border-r-2 border-blue-600 dark:border-blue-400 pr-1 animate-pulse">
                 {typedRole}
               </span>
+            </p>
+            <p className="text-base sm:text-lg text-slate-500 dark:text-slate-400 mt-2 max-w-xl font-sans leading-relaxed">
+              Turning Business Requirements into Product Solutions.
             </p>
           </motion.div>
 
